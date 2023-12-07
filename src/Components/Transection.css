@@ -1,0 +1,22 @@
+.list{
+    width: 500px auto;
+    padding: 20px;
+    margin-bottom: auto;
+    list-style-type: none;
+    background: #b9dbef;
+    box-shadow: 0 1px 3px rgb(0, 0, 0,0.12);
+    border-radius: 25px;
+}
+.list li{
+    
+    text-align: center;
+    width: 200px auto;
+    box-shadow: 0 1px 3px rgb(160, 155, 155);
+    margin-bottom: 10px;
+    padding: 12px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    color:rgb(0, 0, 0);
+    text-shadow: 0 1px 3px rgba(208, 183, 183, 0.913);
+}

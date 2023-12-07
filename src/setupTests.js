@@ -1,0 +1,1 @@
+Body_Log : {"customer_no":"18545","customer_name":"บลูเพย์","total_interest":"10000","interest_invoice_date":"17/11/2023","sale_id":"54023","sale_name":"นางสาวพัชรินทร์ แจงบำรุง","sale_team":"Retention","Inv_no_save":"66-30000005","status":"Success","sale_id":"54023"}
